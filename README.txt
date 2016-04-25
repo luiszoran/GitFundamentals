@@ -1,2 +1,3 @@
 "Hello, Git"
-Cambios 
+Cambios
+Updating README with new information 
